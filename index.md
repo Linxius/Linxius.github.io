@@ -23,6 +23,7 @@ articles:
 I am a PhD candidate of Computer Science at College of Computer Science and Software Engineering, Shenzhen University. My supervisor is Prof. Hui Huang. My research interest lies in computer grahics, especially in point cloud, urban scene perception and reconstruction. I currently a reviewer of  IEEE Transactions on Visualization and Computer Graphics (TVCG).
 
 #### Education 
+- 2015 to 2019: Bachelar, Xidian University, Electronic and Information Engineering
 - 2019 to now: PhD candidate, Shenzhen University, Computer Science and Technology
 
 #### Publications
@@ -39,7 +40,7 @@ Science China Information Sciences 2022.
 3. Xingguang Yan, **Liqiang Lin**, Niloy J. Mitra, Dani Lischinski, Daniel Cohen-Or, and Hui Huang*. 
 ShapeFormer: Transformer-based Shape Completion via Sparse Representation. CVPR 2022.
 
-4. Liqiang Lin**†, Pengdi Huang†, Fuyou Xue, Kai Xu, Daniel Cohen-Or, and Hui Huang*. 
+4. **Liqiang Lin**†, Pengdi Huang†, Fuyou Xue, Kai Xu, Daniel Cohen-Or, and Hui Huang*. 
 Hausdorff point convolution with geometric priors. 
 Science China Information Sciences 64, no.11 (2021): 1-13.（共同一作）
 
