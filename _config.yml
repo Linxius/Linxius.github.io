@@ -5,8 +5,8 @@ remote_theme: linxius/linxius.github.io # Jekyll Remote Theme, see https://githu
 ##############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: tomorrow-night-eighties # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : # the base hostname & protocol for your site e.g. https://www.someone.com
-baseurl : # does not include hostname
+url     : / # the base hostname & protocol for your site e.g. https://www.someone.com
+baseurl : / # does not include hostname
 title   : Homepage
 description: > # this means to ignore newlines until "Language & timezone"
 
@@ -71,8 +71,8 @@ toc:
 ## => Markdown Enhancements
 ##############################
 ## Mathjax
-mathjax: true # false (default), true
-mathjax_autoNumber: true # false (default), true
+mathjax: false # false (default), true
+mathjax_autoNumber: false # false (default), true
 
 ## Mermaid
 mermaid: # false (default), true

@@ -25,6 +25,7 @@ I am a PhD candidate of Computer Science at College of Computer Science and Soft
 #### Education 
 - 2015 to 2019: Bachelar, Xidian University, Electronic and Information Engineering
 - 2019 to now: PhD candidate, Shenzhen University, Computer Science and Technology
+- Expected graduation time: June 2024
 
 #### Publications
 1. **Liqiang Lin**, Yilin Liu, Yue Hu, Xinguang Yan, and Hui Huang*. 
