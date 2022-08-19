@@ -1,9 +1,15 @@
 header:
-  - title: Blog
-    url: /blog.html
+  - title: Github
+    url: https://github.com/Linxius
 
-  - title: Archive
+  - title: Blog
     url: /archive.html
+
+  # - title: Blog
+  #   url: /blog.html
+
+  # - title: Archive
+  #   url: /archive.html
 
   # - titles:
   #     # @start locale config
