@@ -10,7 +10,7 @@ mathjax_autoNumber: true
 
 ![](/blog/figs/2022-07-30-vis2mesh.png)
 
-学习点云到采样的虚拟视角的可见性，以此来进行点云重建。
+用gt深度图作为监督，学习随机生成的虚拟视角到输入点云的可见性（先以深度图的形式），以此来进行点云重建。
 
 ## Next-Best View Policy for 3D Reconstruction [[ECCV20]](https://www.researchgate.net/profile/Rowel-Atienza/publication/343986769_Next-Best_View_Policy_for_3D_Reconstruction/links/60a8c49aa6fdcc6d6266d74c/Next-Best-View-Policy-for-3D-Reconstruction.pdf)
 强化学习的NBV
