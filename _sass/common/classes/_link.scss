@@ -1,4 +1,4 @@
-@mixin link-colors($clr, $hover-clr: #69c, $active-clr: #999, $focus-clr: null, $theme: default, $ignore-path: false) {
+@mixin link-colors($clr, $hover-clr: default, $active-clr: default, $focus-clr: null, $theme: default, $ignore-path: false) {
   @include plain() {
     text-decoration: none;
   }
