@@ -24,3 +24,6 @@ mathjax_autoNumber: true
 [[PDF]](https://openreview.net/pdf?id=HklXn1BKDH) [[Project Webpage]](https://devendrachaplot.github.io/projects/Neural-SLAM)
 
 ## SparseNeuS: Fast Generalizable Neural Surface Reconstruction from Sparse views [[Project]](https://www.xxlong.site/SparseNeuS/)
+![](/blog/figs/SparseNeuS.jpg)
+类似地，
+Neural Sparse Voxel Fields [[NIPS20]](https://github.com/facebookresearch/NSVF): octree的NeRF

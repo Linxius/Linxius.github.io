@@ -23,6 +23,7 @@ mathjax_autoNumber: true
 
 ## Learning to Generate Realistic LiDAR Point Clouds [[ECCV22]](https://arxiv.org/pdf/2209.03954.pdf)
 竟然还有这种研究怎么生成lidar点云的文章。。
+还有[IROS22](https://arxiv.org/abs/2209.10986)
 
 ## Polarimetric Inverse Rendering for Transparent Shapes Reconstruction [[code]](https://github.com/shaomq2187/TransPIR)
 
@@ -47,3 +48,14 @@ NeRF的分块
 同样地：Baking Neural Radiance Fields for Real-Time View Synthesis [[ICCV21]](https://phog.github.io/snerg/)
 
 
+## Fourier PlenOctrees for Dynamic Radiance Field Rendering in Real-time [[CVPR22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Fourier_PlenOctrees_for_Dynamic_Radiance_Field_Rendering_in_Real-Time_CVPR_2022_paper.pdf)
+
+
+## Urban Radiance Fields [[CVPR22]](https://urban-radiance-fields.github.io/)
+
+## NPBG++: Accelerating Neural Point-Based Graphics [[CVPR22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Rakhimov_NPBG_Accelerating_Neural_Point-Based_Graphics_CVPR_2022_paper.pdf)
+
+## Instant Neural Graphics Primitives [](https://github.com/NVlabs/instant-ngp)
+[](https://github.com/NVlabs/tiny-cuda-nn)
+
+## PlenOctrees for Real-time Rendering of Neural Radiance Fields

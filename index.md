@@ -1,7 +1,7 @@
 ---
 layout: home
 articles:
-  excerpt_type: html
+excerpt_type: html
 ---
 
 <script src="https://kit.fontawesome.com/dc3b63b893.js" crossorigin="anonymous"></script>
@@ -22,11 +22,13 @@ articles:
 
 I am a PhD candidate of Computer Science at College of Computer Science and Software Engineering, Shenzhen University. My supervisor is Prof. Hui Huang. My research interest lies in computer grahics, especially in point cloud, urban scene perception and reconstruction. I currently a reviewer of  IEEE Transactions on Visualization and Computer Graphics (TVCG).
 
+&nbsp;&nbsp;&nbsp;
 #### Education 
 - 2015 to 2019: Bachelar, Xidian University, Electronic and Information Engineering
 - 2019 to now: PhD candidate, Shenzhen University, Computer Science and Technology
 - Expected graduation time: June 2024
 
+&nbsp;&nbsp;&nbsp;
 #### Publications
 - Yilin Liu, **Liqiang Lin**, Ke Xie, Chi-Wing Fu, Hao Zhang, and Hui Huang. 
 Learning Reconstructability for Drone Aerial Path Planning. SIGGRAPH Asia 2022 conditionally Accepted.
@@ -53,6 +55,7 @@ Autonomous outdoor scanning via online topological and geometric path optimizati
 IEEE Transactions on Intelligent Transportation Systems (2020).
 
 
+&nbsp;&nbsp;&nbsp;
 #### Other Achievements
 - 授权中国发明专利：黄惠，林力强，点云特征增强方法、装置、计算机设备和存储介质（授权号：ZL202110452686.8），授权时间：2021-07-27
 - 申请美国发明专利：Hui Huang, Liqiang Lin. Point cloud feature enhancement and apparatus, computer device and storage medium（申请号: 17/498,754）, 申请日: 2021-10-12
