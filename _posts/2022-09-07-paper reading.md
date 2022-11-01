@@ -59,3 +59,5 @@ NeRF的分块
 [](https://github.com/NVlabs/tiny-cuda-nn)
 
 ## PlenOctrees for Real-time Rendering of Neural Radiance Fields
+
+## Stochastic Poisson Surface Reconstruction (https://arxiv.org/abs/2206.15236v2)

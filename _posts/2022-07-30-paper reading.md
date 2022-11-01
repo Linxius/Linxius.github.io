@@ -15,7 +15,7 @@ mathjax_autoNumber: true
 ## Next-Best View Policy for 3D Reconstruction [[ECCV20]](https://www.researchgate.net/profile/Rowel-Atienza/publication/343986769_Next-Best_View_Policy_for_3D_Reconstruction/links/60a8c49aa6fdcc6d6266d74c/Next-Best-View-Policy-for-3D-Reconstruction.pdf)
 强化学习的NBV
 
-## [[ECCV22]](https://arxiv.org/pdf/2207.13691.pdf)
+## ShAPO: Implicit Representations for Multi-Object Shape, Appearance, and Pose Optimization [[ECCV22]](https://arxiv.org/pdf/2207.13691.pdf)
 
 
 ## Gradient-based Point Cloud Denoising with Uniformity [[arxiv]](https://arxiv.org/pdf/2207.10279.pdf)

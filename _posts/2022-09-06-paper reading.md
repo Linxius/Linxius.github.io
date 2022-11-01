@@ -8,6 +8,10 @@ mathjax_autoNumber: true
 
 ## Point-NeRF: Point-based Neural Radiance Fields
 [[Github]](https://github.com/Xharlie/pointnerf) [[PDF]](https://arxiv.org/pdf/2201.08845.pdf)
+![](/blog/figs/pointnerf.png)
+
+## Neural Point-Based Graphics [[ECCV22]](https://github.com/alievk/npbg)
+与Point-NeRF类似，但点云是作为一个输入，而非优化得到
 
 ## Dual Octree Graph Networks for Learning Adaptive Volumetric Shape Representations
 [[PDF]](https://arxiv.org/pdf/2205.02825.pdf) [王鹏帅](https://wang-ps.github.io/)的一系列voxel工作。
