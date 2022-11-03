@@ -31,7 +31,7 @@ I am a PhD candidate of Computer Science at College of Computer Science and Soft
 &nbsp;&nbsp;&nbsp;
 #### Publications
 - Yilin Liu, **Liqiang Lin**, Ke Xie, Chi-Wing Fu, Hao Zhang, and Hui Huang. 
-Learning Reconstructability for Drone Aerial Path Planning. SIGGRAPH Asia 2022 conditionally Accepted.
+Learning Reconstructability for Drone Aerial Path Planning. SIGGRAPH Asia 2022.
 
 - **Liqiang Lin**, Yilin Liu, Yue Hu, Xinguang Yan, and Hui Huang*. 
 Capturing, Reconstructing, and Simulating: the UrbanScene3D Dataset. ECCV 2022. 
