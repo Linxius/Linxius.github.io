@@ -20,7 +20,7 @@ excerpt_type: html
 <a href="https://twitter.com/liqianglin">Twitter</a> 
 </font></center>
 
-I am a PhD candidate of Computer Science at College of Computer Science and Software Engineering, Shenzhen University. My supervisor is Prof. Hui Huang. My research interest lies in computer grahics, especially in point cloud, urban scene perception and reconstruction. I currently a reviewer of  IEEE Transactions on Visualization and Computer Graphics (TVCG).
+I am a PhD candidate of Computer Science at College of Computer Science and Software Engineering, Shenzhen University. My supervisor is Prof. Hui Huang. My research interest lies in computer grahics, especially in point cloud, urban scene perception and reconstruction. I currently a reviewer of TOG, TVCG, ISPRS P&RS.
 
 &nbsp;&nbsp;&nbsp;
 #### Education 
@@ -41,18 +41,18 @@ Capturing, Reconstructing, and Simulating: the UrbanScene3D Dataset. ECCV 2022.
 
 - **Liqiang Lin**, Pengdi Huang, Chi-Wing Fu, Kai Xu, Hao Zhang, and Hui Huang*. 
 On Learning the Right  Attention Point for Feature Enhancement. 
-Science China Information Sciences 2022. 
+Science China Information Sciences 2022, CCF A. 
 
 - Xingguang Yan, **Liqiang Lin**, Niloy J. Mitra, Dani Lischinski, Daniel Cohen-Or, and Hui Huang*. 
 ShapeFormer: Transformer-based Shape Completion via Sparse Representation. CVPR 2022.
 
 - **Liqiang Lin**†, Pengdi Huang†, Fuyou Xue, Kai Xu, Daniel Cohen-Or, and Hui Huang*. 
 Hausdorff point convolution with geometric priors. 
-Science China Information Sciences 64, no.11 (2021): 1-13.（共同一作）
+Science China Information Sciences 2021, CCF A.
 
 - Pengdi Huang, **Liqiang Lin**, Kai Xu, and Hui Huang*. 
 Autonomous outdoor scanning via online topological and geometric path optimization. 
-IEEE Transactions on Intelligent Transportation Systems (2020).
+IEEE Transactions on Intelligent Transportation Systems 2020.
 
 
 &nbsp;&nbsp;&nbsp;
